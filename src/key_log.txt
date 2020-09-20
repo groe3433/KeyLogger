@@ -18,4 +18,4 @@ Key.ctrlKey.ctrlKey.ctrlKey.cmdKey.ctrlKey.ctrlKey.ctrlcatKey.tabpublic static v
 Key.upKey.downSystem.out.println)();Key.leftKey.left""Key.leftCATKey.cmdsKey.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlttteeessstttaaannndddrrreeewww...gggrrroooeeennneeewwwooollldddKey.tabKey.tabKey.tabKey.cmdKey.cmdKey.cmd@@@gggmmmaaaiiilll...cccooommmKey.tabKey.tabKey.tabKey.cmdKey.cmdKey.cmdKey.ctrlKey.ctrlKey.ctrlpppuuussshhh   eeecccllliiissspppeee   Key.downKey.downKey.down
 
 
-Key.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrl
+Key.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlttteeesssttt
