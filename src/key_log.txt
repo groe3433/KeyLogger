@@ -18,4 +18,6 @@ Key.ctrlKey.ctrlKey.ctrlKey.cmdKey.ctrlKey.ctrlKey.ctrlcatKey.tabpublic static v
 Key.upKey.downSystem.out.println)();Key.leftKey.left""Key.leftCATKey.cmdsKey.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlttteeessstttaaannndddrrreeewww...gggrrroooeeennneeewwwooollldddKey.tabKey.tabKey.tabKey.cmdKey.cmdKey.cmd@@@gggmmmaaaiiilll...cccooommmKey.tabKey.tabKey.tabKey.cmdKey.cmdKey.cmdKey.ctrlKey.ctrlKey.ctrlpppuuussshhh   eeecccllliiissspppeee   Key.downKey.downKey.down
 
 
-Key.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlttteeesssttt
+Key.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlKey.ctrlttteeessstttKey.ctrlKey.ctrlKey.ctrlttteeessstttKey.cmdKey.cmdKey.cmdcccKey.cmdKey.cmdKey.cmdvvvKey.caps_lockKey.caps_lockKey.caps_lockKKKEEEYYYLLLOOOGGGGGGEEERRRKey.caps_lockKey.caps_lockKey.caps_lock\\\\\\\\\\\\\\\\\\KKKeeeyyyLLLoooggggggeeerrrKey.cmdKey.cmdKey.cmdcccKey.cmdKey.cmdKey.cmdKey.cmdKey.cmdKey.cmdvvvKey.tabKey.tabKey.tabKey.tabKey.tabKey.tabaaannndddrrreeewww...gggrrroooeeennneeewwwooollldddKey.tabKey.tabKey.tab...@@@gggmmmaaaiiilll...cccooommmKey.tabKey.tabKey.tabgggiiitttKey.cmdKey.cmdKey.cmdaaannndddrrreeewww...gggrrroooeeennneeewwwooolllddd@@@gggaaammmiiilllcccooommmmmmaaaiiilll...cccooommmKey.tabKey.tabKey.tabKey.cmdKey.cmdKey.cmdrrrttteeessstttaaannndddrrreeewww...gggrrroooeeennneeewwwooolllddd@@@mmmgggmmmaaaiiilll...cccooommmKey.tabKey.tabKey.tabKey.cmdKey.cmdKey.cmdKey.cmdKey.cmdKey.cmd
+
+ttteeesssttt
